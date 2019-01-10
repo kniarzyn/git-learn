@@ -5,4 +5,4 @@ Git excercises
 - [ ] create feature branch
 - [ ] make some changes and commits
 - [ ] make pull request
-- [ ] rebase to master
+- [X] rebase to master
